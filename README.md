@@ -25,8 +25,8 @@ W,W,R,R,R,R,R,R,R,W,W
 Br,Br,Br,Br,,,,Br,Br,Br,Br
 </pre>
 
-## Resulting Mario sprite:
-![Mario sprite](Mario.bmp?raw=true "Mario sprite")
+## Resulting Mario sprite (enlarged):
+![Mario sprite (240x240)](Mario__240x240.png?raw=true "Mario sprite (240x240)")
 
 So here's my code ... just in case anyone else finds it useful.
 
