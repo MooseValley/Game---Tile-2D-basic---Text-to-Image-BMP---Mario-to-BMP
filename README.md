@@ -2,6 +2,8 @@
 
 ### Borland Delphi v2-v5
 
+My Delphi code from 2-Dec-2015 to generate a sprite from a text map.
+
 I watched the movie "GamePlay - The Video Game Revolution" back on 2-Feb-2015 and it reminded me how simple the Mario character game sprite is - just 16x16 pixels.  See screen shots from the movie included in the above repo.
 
 And I thought I'd mess around and reconstruct the Mario sprite from a simple text map, just for fun.
@@ -33,3 +35,11 @@ Br,Br,Br,Br,,,,Br,Br,Br,Br
 So here's my code ... just in case anyone else finds it useful.
 
 Moose
+<br />
+Moose's Software Valley - Established July, 1996.
+* Email: Moose_Software@yahoo.com.au
+* WEB Site: https://rebrand.ly/MoosesSoftware
+* Reddit Forum: https://www.reddit.com/r/MoosesSoftware/
+* YouTube Channel: https://www.youtube.com/user/MoosesValley/playlists
+* GitHub Projects: https://github.com/MooseValley?tab=repositories
+
